@@ -15,5 +15,5 @@ test mention @rloblaw
 
 test issue #2
 
-test [link to section 1](#section 1)
+test [link to section 1](#section-1)
 
