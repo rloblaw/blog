@@ -11,7 +11,7 @@ asdf asdf asdf
 
 test mention @rloblaw 
 
-# section 2
+# Test mixed-case Heading
 
 test issue #2
 
